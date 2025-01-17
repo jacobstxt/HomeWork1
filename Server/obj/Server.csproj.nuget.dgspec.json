@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IT\\NetworkProgramming\\HomeWork1\\Server\\Server.csproj": {}
+    "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork1\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\IT\\NetworkProgramming\\HomeWork1\\Server\\Server.csproj": {
+    "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork1\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IT\\NetworkProgramming\\HomeWork1\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork1\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\IT\\NetworkProgramming\\HomeWork1\\Server\\Server.csproj",
+        "projectPath": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork1\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\IT\\NetworkProgramming\\HomeWork1\\Server\\obj\\",
+        "outputPath": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork1\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
